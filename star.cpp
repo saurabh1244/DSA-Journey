@@ -311,3 +311,27 @@ using namespace std;
 
 
 
+// int main(){
+
+//     for(int row=0;row<3 ;row++){
+
+//         for(int space=0; space<row; space++){
+//             cout<<"-"<<" ";
+//         }
+        
+
+//         for(int star=0; star<5-(row*2); star++ ){
+//             cout<<"*"<<" ";
+//         }
+
+//          for(int space=0; space<row; space++){
+//             cout<<"-"<<" ";
+//         }
+        
+//         cout<<endl;
+//     }
+// }
+
+// * * * * * 
+// - * * * -
+// - - * - -

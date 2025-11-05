@@ -1,1 +1,0 @@
-list  = ["apple","banana","cheery"]
